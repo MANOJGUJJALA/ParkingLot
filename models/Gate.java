@@ -1,7 +1,6 @@
 package models;
 
 public class Gate extends BaseModel{
-
     private int gateNumber;
 
     private String  operator;
